@@ -1,5 +1,5 @@
 {
-  "name": "Url-Uploader-TG",
+  "name": "Url-Uploader",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [
     "telegram",
@@ -14,8 +14,8 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/xurluploaderbot",
-  "repository": "https://github.com/kalanakt/Url-Uploader-TG",
+  "success_url": "https://t.me/TurboTheUploaderBot",
+  "repository": "https://github.com/kalanakt/Url-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
