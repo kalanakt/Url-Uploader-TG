@@ -1,7 +1,7 @@
-## X-URL-Uploader (Bot)
+## URL-Uploader (Bot)
 ---
 
-Telegram RoBot to Upload Links.
+A Bot Upload file|video To Telegram using given Links.
 
 **Features**:
 
@@ -15,7 +15,7 @@ Telegram RoBot to Upload Links.
 
 
 ## Deploy To Heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/Url-Uploader-TG)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/Url-Uploader)
 
 ## Credits, and Thanks to:
 
