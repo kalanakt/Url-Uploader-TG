@@ -15,7 +15,7 @@ A Bot Upload file|video To Telegram using given Links.
 
 
 ## Deploy To Heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/Url-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/Url-Uploader-TG)
 
 ## Credits, and Thanks to:
 
