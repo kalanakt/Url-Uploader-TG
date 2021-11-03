@@ -17,7 +17,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/Url-Uploader-TG)
 
 
-## Our Telegram Channel and Group
+## Our Telegram Channel 
 
 * [Bae Suzy Updates](https://t.me/TMWAD)
 
