@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
+# (c) Shrimadhav U K | Modifieded By : @DC4_WARRIOR
 
 # the logging things
 import logging
@@ -16,7 +16,8 @@ if bool(os.environ.get("WEBHOOK", False)):
 else:
     from config import Config
 
-import pyrogram
+from pyrogram import Client as Clinton
+from pyrogram import filters
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
@@ -24,15 +25,11 @@ if __name__ == "__main__" :
     # create download directory, if not exist
     if not os.path.isdir(Config.DOWNLOAD_LOCATION):
         os.makedirs(Config.DOWNLOAD_LOCATION)
-    plugins = dict(
-        root="plugins"
-    )
-    app = pyrogram.Client(
-        "URL-Uploader",
+    plugins = dict(root="plugins")
+    Warrior = Clinton(
+        "Url-Uploader-TG",
         bot_token=Config.TG_BOT_TOKEN,
         api_id=Config.APP_ID,
         api_hash=Config.API_HASH,
-        plugins=plugins
-    )
-    Config.AUTH_USERS.add(1288398723)
-    app.run()
+        plugins=plugins)
+    Warrior.run()
