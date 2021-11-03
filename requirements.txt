@@ -9,3 +9,7 @@ tgcrypto
 yt-dlp
 olefile
 filetype
+tldextract
+motor
+https://github.com/Tinche/aiofiles/archive/master.zip
+dnspython
