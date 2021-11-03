@@ -4,7 +4,7 @@
 
 **My Features**:
 
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+👉 All Supported [Sites]( https://rg3.github.io/youtube-dl/supportedsites.html)
 
 👉 Upload as file from any HTTP link
 
