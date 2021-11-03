@@ -3,7 +3,7 @@ class Translation(object):
     START_TEXT = """Hi {},
 I'm URL-Uploader!
 You can upload HTTP/HTTPS direct link, Using this bot!
-MainTain By @Bot4Universe
+MainTain By @TMWAD
 /help for more details!"""
     
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
