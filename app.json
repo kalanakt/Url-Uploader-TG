@@ -1,5 +1,5 @@
 {
-  "name": "Uploader X Bot",
+  "name": "Url-Uploader-TG",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [
     "telegram",
@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/Uploader_X_bot",
-  "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/UPLOADER-BOT",
+  "success_url": "https://t.me/TurboTheUploaderBot",
+  "website": "https://github.com/kalanakt",
+  "repository": "https://github.com/kalanakt/Url-Uploader-TG",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -43,11 +43,11 @@
       "value": ""
     },
     "SESSION_NAME": {
-      "description": "Your Session Name",
-      "value": "URL-UPLOADER"
+      "description": "Your (mongoDb) Session Name",
+      "value": ""
     },
     "BANNED_USERS": {
-      "description": "Banned Unwanted members..",
+      "description": "Banned Unwanted members.., leave that if u don't want to",
       "value": "",
       "required": false
     },
