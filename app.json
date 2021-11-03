@@ -1,5 +1,5 @@
 {
-  "name": "Uploader X Bot",
+  "name": "Url-Uploader-TG",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [
     "telegram",
@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/TurboTheUploaderBot
+  "success_url": "https://t.me/TurboTheUploaderBot"
   "website": "https://github.com/kalanakt",
   "repository": "https://github.com/kalanakt/Url-Uploader-TG",
   "env": {
