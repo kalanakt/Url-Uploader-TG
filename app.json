@@ -24,33 +24,27 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "OWNER_ID": {
       "description": "Your Telegram ID . Get this from https://t.me/TGIdsBot",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "SESSION_NAME": {
       "description": "Your mongoDb Session Name",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
