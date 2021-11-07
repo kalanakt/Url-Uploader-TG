@@ -13,7 +13,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/Url-Uploader-TG)
 
 
-## Our Telegram Channel 
+## Bae Suzy Open Source Project 
 
 * [Bae Suzy Updates](https://t.me/TMWAD)
 
